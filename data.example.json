@@ -1,11 +1,23 @@
 {
    "intents":[
       {
-         "tag":"greeting",
+         "tag":"thanks",
          "patterns":[
             "Hi",
             "Hey",
             "How are you",
+            "Is anyone there?",
+            "Hello",
+            "Good day"
+         ],
+         "responses":"Hi, thanks for coming"
+      },
+      {
+         "tag":"lamda",
+         "patterns":[
+            "is there drama?",
+            "What is lamda?",
+            "Are MHT participate in FLS2N?",
             "Is anyone there?",
             "Hello",
             "Good day"
