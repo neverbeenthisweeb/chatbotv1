@@ -13,16 +13,14 @@
          "responses":"Hi, thanks for coming"
       },
       {
-         "tag":"lamda",
+         "tag":"futsal",
          "patterns":[
-            "is there drama?",
-            "What is lamda?",
-            "Are MHT participate in FLS2N?",
-            "Is anyone there?",
-            "Hello",
-            "Good day"
+            "Is there any futsal club in MHT school?",
+            "How many times a week the futsal club train?",
+            "Who is the futsal team coach?",
+            "Where are the training usually held?",
          ],
-         "responses":"Hi, thanks for coming"
+         "responses":"There is a football club in MHT. They train futsal and football once a week. They use football field during football training and use futsal court during futsal training. Also we have a coach named Coach Agung who trains us."
       }
    ]
 }
