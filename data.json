@@ -13,6 +13,17 @@
          "responses":"It's Futsal Club"
       },
        {
+          "tag":"marching_band",
+          "patterns":[
+             "do you know bimo?",
+             "where can i play trumpet?",
+             "does mht have marching band extracurricular?",
+             "where can i see pretty girls with flags?",
+             "who are these marching people on MHT promotional videos?"
+          ],
+          "responses":"Marching Band is . . ."
+       },
+       {
           "tag":"Lamda",
           "patterns":[
              "What is the theatre club in MHT?",
@@ -25,4 +36,5 @@
        }
     ]
  }
+
 
