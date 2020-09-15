@@ -14,13 +14,13 @@
       {
          "tag":"marching_band",
          "patterns":[
-            "do you know bimo?",
-            "where can i play trumpet?",
-            "does mht have marching band extracurricular?",
-            "where can i see pretty girls with flags?",
-            "who are these marching people on MHT promotional videos?"
+            "I like to play music, do you know what club should I go with?",
+            "Where can I play trumpet?",
+            "What club that under Mrs. Hirziah responsibilities?",
+            "Where can I see pretty girls with flags?",
+            "What club that perform on Thamrin Olympiad and Cup (TOC) openings?"
          ],
-         "responses":"Marching Band is . . ."
+         "responses":"It's Marching Band"
       },
       {
          "tag":"Lamda",
