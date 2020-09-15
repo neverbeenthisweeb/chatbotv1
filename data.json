@@ -1,5 +1,4 @@
 {
-
    "intents":[
       {
          "tag":"futsal",
@@ -8,33 +7,31 @@
             "I heard coach Agung trained a team here, what club is it exactly? ",
             "What club fawwaz joined when he was a student?",
             "Is there any club ever used the tennis court for training?",
-            "What club that all member are male?",
+            "What club that all member are male?"
          ],
          "responses":"It's Futsal Club"
       },
-       {
-          "tag":"marching_band",
-          "patterns":[
-             "do you know bimo?",
-             "where can i play trumpet?",
-             "does mht have marching band extracurricular?",
-             "where can i see pretty girls with flags?",
-             "who are these marching people on MHT promotional videos?"
-          ],
-          "responses":"Marching Band is . . ."
-       },
-       {
-          "tag":"Lamda",
-          "patterns":[
-             "What is the theatre club in MHT?",
-             "Any club from MHT ever win in FLS2P competition?",
-             "What club did the chairman of student council for 2013/2014 joined when he was a student?",
-             "Other than Saman Dance club, is there any art club in MHT?",
-             "Ipan Mardin is the coach of what club?"
-          ],
-          "responses":"It's Lamda, theatre club of MHT"
-       }
-    ]
- }
-
-
+      {
+         "tag":"marching_band",
+         "patterns":[
+            "I like to play music, do you know what club should I go with?",
+            "Where can I play trumpet?",
+            "What club that under Mrs. Hirziah responsibilities?",
+            "Where can I see pretty girls with flags?",
+            "What club that perform on Thamrin Olympiad and Cup (TOC) openings?"
+         ],
+         "responses":"It's Marching Band"
+      },
+      {
+         "tag":"Lamda",
+         "patterns":[
+            "What is the theatre club in MHT?",
+            "Any club from MHT ever win in FLS2P competition?",
+            "What club did the chairman of student council for 2013/2014 joined when he was a student?",
+            "Other than Saman Dance club, is there any art club in MHT?",
+            "Ipan Mardin is the coach of what club?"
+         ],
+         "responses":"It's Lamda, theatre club of MHT"
+      }
+   ]
+}
