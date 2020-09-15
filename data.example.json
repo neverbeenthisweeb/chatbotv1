@@ -10,18 +10,6 @@
             "What club that all member are male?",
          ],
          "responses":"It's Futsal Club"
-      },
-      {
-         "tag":"lamda",
-         "patterns":[
-            "is there drama?",
-            "What is lamda?",
-            "Are MHT participate in FLS2N?",
-            "Is anyone there?",
-            "Hello",
-            "Good day"
-         ],
-         "responses":"Hi, thanks for coming"
       }
    ]
 }
