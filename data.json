@@ -1,15 +1,15 @@
 {
     "intents":[
        {
-          "tag":"marching_band",
+          "tag":"Lamda",
           "patterns":[
-             "do you know bimo?",
-             "where can i play trumpet?",
-             "does mht have marching band extracurricular?",
-             "where can i see pretty girls with flags?",
-             "who are these marching people on MHT promotional videos?"
+             "What is the theatre club in MHT?",
+             "Any club from MHT ever win in FLS2P competition?",
+             "What club did the chairman of student council for 2013/2014 joined when he was a student?",
+             "Other than Saman Dance club, is there any art club in MHT?",
+             "Ipan Mardin is the coach of what club?"
           ],
-          "responses":"Marching Band is . . ."
+          "responses":"It's Lamda, theatre club of MHT"
        }
     ]
  }
