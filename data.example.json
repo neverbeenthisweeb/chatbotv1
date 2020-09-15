@@ -10,17 +10,6 @@
             "What club that all member are male?",
          ],
          "responses":"It's Futsal Club"
-      },
-      {
-         "tag":"Lamda",
-         "patterns":[
-            "What is the theatre club in MHT?",
-            "Any club from MHT ever win in FLS2P competition?",
-            "What club did the chairman of student council for 2013/2014 joined when he was a student?",
-            "Other than Saman Dance club, is there any art club in MHT?",
-            "Ipan Mardin is the coach of what club?"
-         ],
-         "responses":"It's Lamda, theatre club of MHT"
       }
    ]
 }
