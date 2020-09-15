@@ -1,5 +1,17 @@
 {
-    "intents":[
+
+   "intents":[
+      {
+         "tag":"futsal",
+         "patterns":[
+            "Any other club than basketball that use this basketball court field for training?",
+            "I heard coach Agung trained a team here, what club is it exactly? ",
+            "What club fawwaz joined when he was a student?",
+            "Is there any club ever used the tennis court for training?",
+            "What club that all member are male?",
+         ],
+         "responses":"It's Futsal Club"
+      },
        {
           "tag":"Lamda",
           "patterns":[
@@ -13,3 +25,4 @@
        }
     ]
  }
+
