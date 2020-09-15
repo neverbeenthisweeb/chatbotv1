@@ -32,6 +32,17 @@
             "Ipan Mardin is the coach of what club?"
          ],
          "responses":"It's Lamda, theatre club of MHT"
+      },
+      {
+         "tag":"tdc",
+         "patterns":[
+            "Where can I meet Fikri and Rahmat?",
+            "Where can I learn to dance?",
+            "Where can I see sexy girls dancing?",
+            "What is the dance club of MHT?",
+            "I like dancing with energic music, what club should I go with?"
+         ],
+         "responses":"It's TDC"
       }
    ]
 }
