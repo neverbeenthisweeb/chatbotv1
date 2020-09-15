@@ -1,26 +1,15 @@
 {
    "intents":[
       {
-         "tag":"thanks",
-         "patterns":[
-            "Hi",
-            "Hey",
-            "How are you",
-            "Is anyone there?",
-            "Hello",
-            "Good day"
-         ],
-         "responses":"Hi, thanks for coming"
-      },
-      {
          "tag":"futsal",
          "patterns":[
-            "Is there any futsal club in MHT school?",
-            "How many times a week the futsal club train?",
-            "Who is the futsal team coach?",
-            "Where are the training usually held?",
+            "Any other club than basketball that use this basketball court field for training?",
+            "I heard coach Agung trained a team here, what club is it exactly? ",
+            "What club fawwaz joined when he was a student?",
+            "Is there any club ever used the tennis court for training?",
+            "What club that all member are male?",
          ],
-         "responses":"There is a football club in MHT. They train futsal and football once a week. They use football field during football training and use futsal court during futsal training. Also we have a coach named Coach Agung who trains us."
+         "responses":"It's Futsal Club"
       }
    ]
 }
